@@ -1,5 +1,5 @@
 # m-event
-Management Event with React and AdoinJS
+Management Event with React and AdonisJS
 
 ## setup
 ```
